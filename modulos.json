@@ -1,0 +1,23 @@
+[
+  {
+    "id": "inscricoes",
+    "nome": "Módulo de Inscrições",
+    "descricao": "Arquivos base para inscrição de candidatos.",
+    "url": "https://github.com/SeuUsuario/SeuRepo/releases/download/v1/inscricoes.zip",
+    "pasta_destino": "" 
+  },
+  {
+    "id": "vagas",
+    "nome": "Reserva de Vagas",
+    "descricao": "Gestão de vagas e alocações.",
+    "url": "https://github.com/SeuUsuario/SeuRepo/releases/download/v1/vagas.zip",
+    "pasta_destino": "ReservaVagas"
+  },
+  {
+    "id": "relatorios",
+    "nome": "Módulo de Relatórios Avançados",
+    "descricao": "Geração de PDFs e estatísticas.",
+    "url": "https://github.com/SeuUsuario/SeuRepo/releases/download/v1/relatorios.zip",
+    "pasta_destino": "Relatorios"
+  }
+]
